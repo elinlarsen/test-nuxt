@@ -10,14 +10,14 @@
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="/sendtrack/"
           target="_blank"
           class="button--green"
         >
           Found out my work
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/elinlarsen/test-nuxt"
           target="_blank"
           class="button--grey"
         >
@@ -30,6 +30,7 @@
 
 <script>
 import Logo from '~/components/Logo.vue'
+
 
 export default {
   components: {
